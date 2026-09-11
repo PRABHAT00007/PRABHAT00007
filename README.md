@@ -57,7 +57,7 @@
   OS       : Linux / Debian / Windows Subsystem for Linux
   Host     : Banaras Hindu University (MCA '27) | BCA (Burdwan Univ '24)
   Kernel   : Java 21 LTS | Spring Boot 3.x | Node.js | Docker
-  Intern   : Abbott India Limited (Software & IT Diagnostics)
+  Intern   : Abbott India Limited (Software & IT Intern)
   Metrics  : 400+ DSA Solved | Top 3% NIMCET 2025 | Global Rank 870 CodeRush
   Uptime   : 24/7/365 Code, Debug, Optimize & Ship
   Shell    : zsh / bash / powershell
