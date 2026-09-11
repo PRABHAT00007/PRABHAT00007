@@ -74,11 +74,11 @@
     <td width="60%" valign="top">
       <h4><code>$ cat /proc/developer_info</code></h4>
       <ul>
-        <li>🔭 <b>Building:</b> High-throughput distributed services, Spring Boot REST APIs, and AI-assisted tooling.</li>
-        <li>💼 <b>Enterprise Experience:</b> Diagnosed & supported enterprise apps, configured DHCP services, and resolved network/system bottlenecks across <b>Windows, Linux, & Unix</b> at <b>Abbott India Limited</b>.</li>
-        <li>🧠 <b>Algorithmic Mastery:</b> <b>400+ DSA</b> problems solved; strong grasp of Graph Theory, Dynamic Programming & Tree structures.</li>
-        <li>🌱 <b>Exploring:</b> Distributed Caching, Microservice Architecture, Kafka Message Queues & System Design.</li>
-        <li>💬 <b>Ask me about:</b> Java internals, OOP architecture, DB schema indexing, and API security (JWT).</li>
+        <li>🔭 <b>Building:</b> High-throughput distributed backend services, Spring Boot microservices, and AI-assisted scoring engines.</li>
+        <li>💼 <b>Enterprise Experience:</b> Supported enterprise applications, managed DHCP services, and resolved network/hardware bottlenecks across <b>Windows, Linux, & Unix</b> at <b>Abbott India Limited</b>.</li>
+        <li>🧠 <b>Algorithmic Mastery:</b> <b>400+ DSA</b> problems solved across LeetCode & competitive platforms.</li>
+        <li>🌱 <b>Exploring:</b> Distributed Caching, System Design, Microservice Architecture, and Kafka Message Queues.</li>
+        <li>💬 <b>Ask me about:</b> Java Ecosystem, Spring Boot, MySQL/MongoDB indexing, and REST Security (JWT).</li>
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
@@ -89,34 +89,116 @@
 
 ---
 
+### 🏆 Honors & Key Achievements
+
+```text
+  🥇 Top 3% Nationwide       ▶  NIMCET 2025 (National Level MCA Entrance)
+  🎯 Top 2% Nationwide       ▶  CUET PG 2025 (Common University Entrance Test)
+  ⚡ Global Rank 870         ▶  CodeRush 2025 Competitive Programming Contest
+  🧩 400+ Problems Solved    ▶  Data Structures & Algorithms across platforms
+  🏅 Distinction Medals      ▶  National Science, Cyber & Math Olympiads (NSO, NCO, IMO)
+  ⚽ Silver Medalist          ▶  'Varchas-2026' Inter-Hostel Tournament
+```
+
+---
+
+### 💼 Work Experience
+
+<table>
+  <tr>
+    <td width="100%">
+      <h4>🏢 <b>Abbott India Limited</b> | <i>Software and IT Intern</i></h4>
+      <p><b>Location:</b> Goa, India &nbsp;|&nbsp; <b>Duration:</b> June 2026 – July 2026</p>
+      <ul>
+        <li>Supported and managed enterprise software applications, troubleshooting application and system issues to ensure reliable day-to-day operations across corporate departments.</li>
+        <li>Diagnosed and resolved software, operating system, and hardware issues across <b>Windows, Linux, and Unix</b> environments, minimizing system downtime.</li>
+        <li>Troubleshot network and connectivity issues involving <b>TCP/IP, DNS, routing, and DHCP</b> to maintain reliable communication between client systems and enterprise services.</li>
+        <li>Configured and monitored <b>DHCP services</b> and corporate systems, investigating configuration and connectivity problems and implementing solutions to improve system reliability.</li>
+      </ul>
+      <p><b>Domain & Tech:</b> <code>Enterprise Systems</code> <code>Linux/Unix</code> <code>Windows Server</code> <code>TCP/IP</code> <code>DHCP & DNS</code> <code>Network Diagnostics</code></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🎓 Education History
+
+<table>
+  <thead>
+    <tr>
+      <th>Degree / Program</th>
+      <th>Institution</th>
+      <th>Key Coursework & Focus</th>
+      <th>Duration / Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Master of Computer Applications (MCA)</b></td>
+      <td><b>Banaras Hindu University (BHU)</b><br/><i>Varanasi, Uttar Pradesh</i></td>
+      <td>Computer Networks, DBMS, Data Structures & Algorithms, AI & Machine Learning, OOPs</td>
+      <td><b>Expected August 2027</b></td>
+    </tr>
+    <tr>
+      <td><b>Bachelor of Computer Applications (BCA)</b></td>
+      <td><b>The University of Burdwan</b><br/><i>Burdwan, West Bengal</i></td>
+      <td>Unix, Probability & Statistics, Digital Logic, Theory of Computation, Computer Graphics</td>
+      <td><b>Completed July 2024</b></td>
+    </tr>
+    <tr>
+      <td><b>Higher Secondary Education (Class XII - CBSE)</b></td>
+      <td><b>DAV Public School, BCCL Township</b><br/><i>Dhanbad, Jharkhand</i></td>
+      <td>Mathematics, Physics, Chemistry, Informatics Practices</td>
+      <td><b>Completed July 2021</b></td>
+    </tr>
+    <tr>
+      <td><b>Secondary Education (Class X - CISCE)</b></td>
+      <td><b>De Nobili School, FRI</b><br/><i>Dhanbad, Jharkhand</i></td>
+      <td>Mathematics, Physics, Chemistry, Computer Applications</td>
+      <td><b>Completed May 2019</b></td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
 ### 🚀 Featured Engineering Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>📦 <b>ATS Resume Score Checker</b></h4>
+      <h4>🤖 <b>ATS Resume Score Checker</b></h4>
       <p><i>Full-Stack AI-Powered Resume Scoring & Analytics Engine</i></p>
       <ul>
-        <li>Architected a 4-tier sequential AI pipeline using <b>Claude / OpenAI APIs</b> with strict JSON response enforcement.</li>
-        <li>Engineered backend with <b>Spring Boot</b>, <b>Spring Security (JWT)</b>, <b>Spring Data JPA</b>, and <b>MySQL</b>.</li>
-        <li>Built deterministic rule-based scoring module paired with <b>Apache PDFBox & Tika</b> for document parsing.</li>
-        <li>Containerized application workflow with <b>Docker Compose</b> and dynamic <b>React.js (Vite)</b> dashboard.</li>
+        <li>Building a full-stack AI resume analyzer using <b>React.js (Vite)</b> and <b>Spring Boot</b>, with <b>MySQL</b> for persistence and <b>Spring Security (JWT) + Spring Data JPA</b> for secure authentication.</li>
+        <li>Engineering a 4-step sequential AI pipeline (Requirement extraction, Resume profiling, Semantic matching, Suggestion generation) via <b>Claude/OpenAI APIs</b> with structured JSON outputs.</li>
+        <li>Developing document text extraction (PDF/DOCX) using <b>Apache PDFBox/Tika</b> paired with a deterministic rule-based scoring engine.</li>
+        <li>Building a responsive dashboard with <b>React, Recharts, and Axios</b>, containerized with <b>Docker Compose</b>.</li>
       </ul>
-      <p><b>Tags:</b> <code>Java</code> <code>Spring Boot</code> <code>Docker</code> <code>React</code> <code>MySQL</code> <code>OpenAI API</code></p>
+      <p><b>Tags:</b> <code>Java</code> <code>Spring Boot</code> <code>React (Vite)</code> <code>MySQL</code> <code>Docker</code> <code>OpenAI API</code> <code>JWT</code></p>
     </td>
     <td width="50%" valign="top">
       <h4>🛒 <b>Grocery Delivery Web Application</b></h4>
-      <p><i>Production-Ready Modular MERN E-Commerce Architecture</i></p>
+      <p><i>Full-Stack MERN Architecture with RBAC Workflows</i></p>
       <ul>
-        <li>Developed decoupled micro-architecture with discrete <b>Customer</b> and <b>Administrator</b> portals.</li>
-        <li>Designed robust RESTful endpoints with <b>Node.js</b> & <b>Express.js</b>, backed by indexed <b>MongoDB</b> collections.</li>
-        <li>Implemented stateless <b>JWT Authorization</b> middleware with role-based access control (RBAC).</li>
-        <li>Built responsive UI with <b>React Hooks</b>, <b>Context API</b>, and <b>Tailwind CSS</b>; benchmarked on <b>Postman</b>.</li>
+        <li>Developed a modular <b>MERN stack</b> web application with separate user and administrator workflows for ordering and catalog management.</li>
+        <li>Designed and implemented reusable REST APIs using <b>Node.js</b> and <b>Express.js</b> with <b>MongoDB</b> for persistent data management.</li>
+        <li>Implemented <b>JWT-based authentication and authorization</b> for secure role-based access.</li>
+        <li>Built reusable components and managed global application state using <b>React Hooks & Context API</b>.</li>
+        <li>Tested and validated API workflows using <b>Postman</b> to maximize endpoint reliability.</li>
       </ul>
-      <p><b>Tags:</b> <code>MERN Stack</code> <code>Node.js</code> <code>MongoDB</code> <code>JWT</code> <code>REST APIs</code> <code>Postman</code></p>
+      <p><b>Tags:</b> <code>MERN Stack</code> <code>React.js</code> <code>Node.js</code> <code>Express.js</code> <code>MongoDB</code> <code>JWT</code> <code>Postman</code></p>
     </td>
   </tr>
 </table>
+
+---
+
+### 🤝 Extracurriculars & Volunteerism
+
+- 💻 **Coding Club Member — The University of Burdwan:** Actively participated in algorithmic problem-solving sessions, technical workshops, and peer coding competitions.
+- ⚽ **Sports Achievement:** Secured **Silver Medal (Runner-up)** in the *‘Varchas-2026’* Inter-Hostel Football Tournament.
 
 ---
 
@@ -189,7 +271,7 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
-**AI, Machine Learning & Computer Vision:**  
+**AI, Machine Learning, Computer Vision & Data:**  
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
