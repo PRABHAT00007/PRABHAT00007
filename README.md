@@ -6,14 +6,14 @@
 <div align="center">
   <!-- Animated Typing SVG -->
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=false&width=650&height=50&lines=%E2%96%B6+Mastering+Backend+Architecture+%26+Java;%E2%96%B6+Cracking+DSA+%26+High-Performance+Computing;%E2%96%B6+Exploring+AI%2C+Cloud+%26+Distributed+Systems;%E2%96%B6+Building+the+Future+of+Software+One+Commit+at+a+Time." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=false&width=650&height=50&lines=%E2%96%B6+Mastering+Backend+Architecture+%26+Java;%E2%96%B6+Cracking+DSA+%26+High-Performance+Computing;%E2%96%B6+Exploring+AI%2C+Cloud+%26+Distributed+Systems;%E2%96%B6+Building+the+Future+of+Software+One+Commit+at+a+Time." alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
   <!-- 3D Connect Buttons -->
   <a href="https://linkedin.com/in/prabhatkumarroy" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&shadow=true" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/RoyPrabhat1" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
@@ -56,7 +56,7 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=PRABHAT00007&theme=matrix&no-frame=false&no-bg=false&margin-w=4&margin-h=4&column=7" alt="3D GitHub Trophies" width="100%"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=PRABHAT00007&theme=onedark&no-frame=false&no-bg=false&margin-w=4&margin-h=4&column=7" alt="3D GitHub Trophies" width="100%"/>
   </a>
 </div>
 
@@ -88,38 +88,15 @@
 
 ---
 
-### 📊 3D Analytics & Performance Center
+### 📊 GitHub Analytics & Performance Center
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=PRABHAT00007&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF" height="195" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=PRABHAT00007&theme=tokyonight&hide_border=false&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakNum=00F0FF" height="195" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.shion.dev/api?username=PRABHAT00007&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=PRABHAT00007&theme=tokyonight&hide_border=false" height="180" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRABHAT00007&layout=compact&theme=tokyonight&hide_border=false&langs_count=8&bg_color=0D1117&title_color=00F0FF" height="175" alt="Top Languages" />
-</div>
-
-<br/>
-
-<!-- Interactive Activity Graph with 3D Glowing Curves -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PRABHAT00007&theme=tokyo-night&hide_border=false&area=true&color=00F0FF" width="98%" alt="3D Activity Graph" />
-</div>
-
----
-
-### 🐍 Contribution Grid Journey
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/PRABHAT00007/PRABHAT00007/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=PRABHAT00007&layout=compact&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&langs_count=8" height="165" alt="Top Languages" />
 </div>
 
 ---
@@ -127,7 +104,7 @@
 ### 💬 Daily Terminal Wisdom
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&bg_color=0D1117&border_color=00F0FF" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </div>
 
 <br/>
